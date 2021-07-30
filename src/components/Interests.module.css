@@ -1,0 +1,14 @@
+.content {
+ margin: 2rem auto;
+ width: 90%;
+ max-width: 40rem;
+}
+
+.header {
+ background-color: cadetblue;
+ height: 2rem;
+ margin-top: 0;
+ border-top-left-radius: 8px;
+ border-top-right-radius: 8px;
+ color: white;
+}

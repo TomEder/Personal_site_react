@@ -1,10 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Header from "./components/Header";
+import About from "./pages/About";
 
 function App() {
  return (
   <div className="App">
-   <h1>Tom Ederstål</h1>
+   <Header />
+   <About />
   </div>
  );
 }
