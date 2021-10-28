@@ -1,0 +1,10 @@
+.HomeContainer {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding-bottom: 50px;
+}
+
+.Links {
+ list-style-type: none;
+}

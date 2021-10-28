@@ -9,10 +9,9 @@ const Interests = (props) => {
     <h3>Interests</h3>
    </header>
    <p>
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil mollitia
-    dolor veniam aperiam, culpa molestias excepturi. Maxime consequuntur, quas
-    aliquam eveniet necessitatibus ullam aspernatur nesciunt alias. Fugit in
-    corrupti ipsam.
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla doloribus ea
+    esse temporibus rerum molestiae dolores cumque ipsam unde quasi et, iste
+    dolor quisquam debitis, odit tempore reprehenderit perferendis velit.
    </p>
   </Card>
  );

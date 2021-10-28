@@ -1,5 +1,6 @@
 import React from "react";
 import classes from "./Header.module.css";
+import { Link } from "react-router-dom";
 
 const Header = () => {
  return (
@@ -9,13 +10,13 @@ const Header = () => {
    <nav>
     <ul>
      <li className={classes.navLinks}>
-      <a>About</a>
+      <Link to={"/about"}>About</Link>
      </li>
      <li className={classes.navLinks}>
-      <a>Portfolio</a>
+      <Link to={"/projects"}>Projects</Link>
      </li>
      <li className={classes.navLinks}>
-      <a>Cool stuff</a>
+      <Link to={"/cool-stuff"}>Cool Stuff</Link>
      </li>
     </ul>
    </nav>
